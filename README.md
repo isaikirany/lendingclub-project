@@ -224,5 +224,5 @@ Each output dataset includes an `ingest_date` timestamp column tracking when the
 
 ## Author
 
-**[Your Name]**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yourwebsite.com)
+**Sai Kiran Yadav**  
+[LinkedIn](https://www.linkedin.com/in/saikiranydv/)
